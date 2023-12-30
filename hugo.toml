@@ -52,7 +52,7 @@ We use ”Decoupling Human and Camera Motion from Videos in the Wild” to first
 enable = true
 
 [[params.two.section]]
-img = "img/example.gif"
+img = "img/467204764745597525_animation.gif"
 img_alt = "blurry background: white/grey"
 title = '3D movement'
 
