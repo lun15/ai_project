@@ -43,7 +43,11 @@ enable = true
 img = "img/example.gif"
 img_alt = "blurry background: white/grey"
 title = '3D movement'
-body = 'description.'
+body = '''
+For our downstream task ”extract meaningful information of human pose by skeleton graph”, we reconstruct the world of 3D skeleton by the SMPL format of human pose.
+
+We use ”Decoupling Human and Camera Motion from Videos in the Wild” to first extract accurate 3D world joints. They infer 3D human motion with a full scene reconstruction for in-the-wild-videos.
+'''
 
 [[params.two.section]]
 img = "img/world_coordinate_system.jpg"
