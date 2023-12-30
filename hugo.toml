@@ -60,7 +60,7 @@ Consequently, we manually add connections between the shoulders and the hips of 
 '''
 
 [[params.two.section]]
-img = "img/skeleton.jpg"
+img = "img/skeleton.png"
 title = 'Magna primis lobortis<br />sed ullamcorper'
 body = 'Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.'
 
