@@ -51,7 +51,7 @@ We use ”Decoupling Human and Camera Motion from Videos in the Wild” to first
 
 [[params.two.section]]
 img = "img/skeleton.png"
-img_alt = "blurry background: grey/white"
+alt = "blurry background: grey/white"
 #title = 'Tortor dolore feugiat<br />elementum magna'
 title = '2D Graphs'
 body = '''
