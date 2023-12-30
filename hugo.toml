@@ -46,7 +46,7 @@ title = '3D movement'
 body = 'description.'
 
 [[params.two.section]]
-img = "img/pic02.jpg"
+img = "img/world_coordinate_system.jpg"
 title = 'Tortor dolore feugiat<br />elementum magna'
 body = 'Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.'
 
